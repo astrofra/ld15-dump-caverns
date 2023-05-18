@@ -4,7 +4,9 @@
 
 This repository contains the source code and assets for a game I created for Ludum Dare 15 (2009). The theme of the competition was "Caverns", which inspired me to create a "Match 3" game with the goal of _cleaning up the polluted caverns_. The game mechanics relies on a simple use of the physics engine.
 
-The game is built on top of the [GameStart engine](https://www.youtube.com/@GameStart3D/videos) and entirely implemented in [Squirrel](https://github.com/albertodemichelis/squirrel)
+The game is built on top of the [GameStart engine](https://www.youtube.com/@GameStart3D/videos) and entirely implemented in [Squirrel](https://github.com/albertodemichelis/squirrel).
+
+_The game was done in 48h (Ludum Dare game jam original rules)._
 
 ![Screenshot](img/game-000.png)<br>
 ![Screenshot](img/game-001.png)

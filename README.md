@@ -2,9 +2,9 @@
 
 # Ludum Dare 15: Dump Caverns (Match x3<sub><sup>-ish</sup></sub>) 
 
-This repository contains the source code and assets for a game I created for Ludum Dare 15 (2009). The theme of the competition was "Caverns", which inspired me to create a unique "Match 3" game with the objective of cleaning up the caverns.
+This repository contains the source code and assets for a game I created for Ludum Dare 15 (2009). The theme of the competition was "Caverns", which inspired me to create a "Match 3" game with the goal of _cleaning up the polluted caverns_. The game mechanics relies on a simple use of the physics engine.
 
-The game was developed using the GameStart3D engine, and was implemented in Squirrel programming language.
+The game is built on top of the [GameStart engine](https://www.youtube.com/@GameStart3D/videos) and entirely implemented in [Squirrel](https://github.com/albertodemichelis/squirrel)
 
 ![Screenshot](img/game-000.png)<br>
 ![Screenshot](img/game-001.png)
@@ -14,7 +14,7 @@ This game showcases a rare example of a Deferred Rendering Pipeline, a technique
 
 ## Playable prototype 
 
-Currently, the game is available for Win32 systems only.
+The game is available for Win32 systems only.
 
 Please check the [releases section](https://github.com/astrofra/ld15-dump-caverns/releases) to download the game.
 

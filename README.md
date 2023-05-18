@@ -1,4 +1,4 @@
-<img src="img/ld-logo.png" align="right" width="200"/>
+<img src="img/ld-logo.png" align="right" width="150"/>
 
 # Ludum Dare 15: Dump Caverns (Match x3<sub><sup>-ish</sup></sub>) 
 
